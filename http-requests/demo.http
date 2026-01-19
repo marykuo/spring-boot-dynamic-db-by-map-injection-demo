@@ -1,0 +1,5 @@
+### Get tenant1 database name
+GET http://localhost:8080/database?environment=TENANT1
+
+### Get tenant2 database name
+GET http://localhost:8080/database?environment=TENANT2
